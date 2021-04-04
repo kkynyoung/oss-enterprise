@@ -4,6 +4,16 @@ You want to release something as open source? Awesome! It's up to you to get it 
 
 ## What should be open source?
 
+Welcome to our course on **Getting Started with Open Source in the Enterprise**. We are excited to join you in this journey and look forward to helping you meet your OSS goals.
+
+### How It Works
+
+### What is the purpose of this repository?
+### Who should someone contact if they have questions?
+### How should someone make conatact if they have questions?
+### What are the first steps to getting started open sourcing a project?
+### How does this repository relate to other projects and business goals?
+
 It's easier to answer this question in terms of what should **not** be open sourced:
 
 1. Don't open source anything that represents core business value.  If it makes us lots of money by being closed source, don't open source it.
